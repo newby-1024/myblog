@@ -1,7 +1,7 @@
 ---
 title: SonarQube简介
 date: 2021-02-27 13:31:50
-categries:
+categories:
  - DevOps
 tag:
  - DevOps
