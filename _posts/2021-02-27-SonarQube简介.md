@@ -5,6 +5,7 @@ categories:
  - DevOps
 tag:
  - DevOps
+ - SonarQube
 ---
 
 　　SonarQube 是一款用于代码质量管理的开源工具，它主要用于管理源代码的质量。
